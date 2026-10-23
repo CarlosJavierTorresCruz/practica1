@@ -1,3 +1,2 @@
 Proyecto Iniciado
 2024-05-20 - Revisión
-Error: Este código rompe la aplicación.
